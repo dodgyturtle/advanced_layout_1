@@ -1,5 +1,5 @@
 # Плеер для просмотра видео
 
-[Ссылка на плеер](https://github.com/dumbturtle/advanced_layout_1/tree/main/player)
+[Ссылка на плеер](https://dumbturtle.github.io/advanced_layout_1/player/)
 
  
